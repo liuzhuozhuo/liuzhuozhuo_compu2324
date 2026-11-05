@@ -66,3 +66,14 @@ dkms.conf
 *.DS_Store
 *data_time/
 
+
+# Heavy outputs: distributed as GitHub release assets (see README)
+*.mp4
+01-solar-system/data/energy.txt
+01-solar-system/data/energy_total.txt
+01-solar-system/aphelion/data/energy.txt
+01-solar-system/aphelion/data/energy_total.txt
+04-earth-moon-rocket/data/datos.txt
+04-earth-moon-rocket/data/datos_vueltas.txt
+05-lennard-jones-gas/data/**/posiciones_*.txt
+05-lennard-jones-gas/data/**/velocidades_*.txt
